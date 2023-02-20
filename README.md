@@ -1,6 +1,6 @@
 ### Hi there 👋
-![GithubStats](https://github-readme-stats.vercel.app/api?username=TianyuEric&show_icons=true&theme=light&count_private=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TianyuEric&theme=light&layout=compact)
+![GithubStats](https://github-readme-stats-ruby-one.vercel.app/api?username=TianyuEric&show_icons=true&theme=light&count_private=true)
+![Most Used Languages](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=TianyuEric&theme=light&layout=compact)
 
 ☺️ ☹️
 
