@@ -19,8 +19,8 @@ Software Engineering graduate student. Exploring **LLM agents**, **vLLM**, and *
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TianyuEric&show_icons=true&title_color=2257EA&icon_color=2257EA&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TianyuEric&layout=compact&title_color=2257EA&bg_color=ffffff&hide_border=true)
+![Top Languages](https://ghstats.dev/api/langs?username=TianyuEric&theme=light)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=TianyuEric&theme=light)
 
 ## Links
 
