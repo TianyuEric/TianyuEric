@@ -1,0 +1,10 @@
+# Local secrets and private files
+.env
+.env.*
+*.pem
+*.key
+id_rsa
+id_ed25519
+
+# Local logs
+*.log
